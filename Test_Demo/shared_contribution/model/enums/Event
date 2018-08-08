@@ -1,7 +1,0 @@
-{
-  "name": "Event",
-  "variables": [
-    "RoundStart",
-    "RoundEnd"
-  ]
-}
